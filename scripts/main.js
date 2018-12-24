@@ -1,6 +1,7 @@
 //  3322 squad
 
-
+let r2d2;
+let r555;
 
 let myImage = document.querySelector('img');
 
